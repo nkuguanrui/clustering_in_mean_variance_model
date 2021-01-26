@@ -1,0 +1,2 @@
+# clustering_in_mean_variance_model
+非监督学习聚类在均值方差模型中的应用；论文复现。
